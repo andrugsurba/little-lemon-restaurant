@@ -1,0 +1,26 @@
+/* Header.css */
+header {
+  background-color: #004d40; /* Dark green */
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  color: #ffd600; /* Yellow */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+#test {
+  color: blue;
+}

@@ -1,0 +1,13 @@
+/* Home.css */
+section {
+  text-align: center;
+  padding: 2rem;
+}
+
+section h2 {
+  color: #004d40; /* Dark green */
+}
+
+section p {
+  color: #333; /* Neutral dark */
+}
